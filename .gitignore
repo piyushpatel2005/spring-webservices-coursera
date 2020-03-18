@@ -1,3 +1,6 @@
 .metadata/
 **/.idea
 **/.gradle
+**/.setting
+**/.classpath
+**/.project
